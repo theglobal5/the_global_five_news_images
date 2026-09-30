@@ -1,0 +1,28 @@
+{
+  "title": "World News",
+  "short": "World",
+  "date": "Wednesday, 30 September 2026",
+  "c1": "#3f1c78",
+  "c2": "#2a63d6",
+  "accent": "#5b2a9e",
+  "ic1": "#7a3fd0",
+  "ic2": "#2a63d6",
+  "sources": "Al Jazeera, Express Tribune, Dawn, Euronews, ABC News, Geo News",
+  "stories": [
+    {"icon": "globe", "h": "Trump says the Iran conflict will end soon",
+     "s": "He gave no timeline. Iran has received US feedback on a seven-day trust-building plan.",
+     "src": "Al Jazeera · Express Tribune · 30 Sep 2026"},
+    {"icon": "chip", "h": "Trump and tech chiefs sign voluntary AI safety pact",
+     "s": "AI companies pledged new safeguards, including independent audits, in a non-binding accord.",
+     "src": "Al Jazeera · Dawn · Euronews · Express Tribune · 29–30 Sep"},
+    {"icon": "flag", "h": "US completes troop withdrawal from Iraq",
+     "s": "Baghdad celebrated while Kurdish officials raised security concerns. 1 October is now 'Sovereignty Day'.",
+     "src": "ABC News · Al Jazeera · Geo News · 29–30 Sep 2026"},
+    {"icon": "ship", "h": "Pirates kill crew on hijacked tanker off Somalia",
+     "s": "Five crew died on the Honour 25, including three Pakistanis. Puntland forces later freed the ship.",
+     "src": "Al Jazeera · Geo News · 29–30 Sep 2026"},
+    {"icon": "speech", "h": "Qatar's prime minister condemns Israel over Gaza",
+     "s": "He sharply criticised Israel's actions and said Qatar will keep working as a mediator.",
+     "src": "Al Jazeera · Express Tribune · 29–30 Sep 2026"}
+  ]
+}
