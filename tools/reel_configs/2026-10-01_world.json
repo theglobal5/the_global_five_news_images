@@ -1,0 +1,28 @@
+{
+  "title": "World News",
+  "short": "World",
+  "date": "Thursday, 1 October 2026",
+  "c1": "#3f1c78",
+  "c2": "#2a63d6",
+  "accent": "#5b2a9e",
+  "ic1": "#7a3fd0",
+  "ic2": "#2a63d6",
+  "sources": "Al Jazeera, AOL/Yahoo News, Democracy Now!, SBS News, Xinhua, Dawn",
+  "stories": [
+    {"icon": "fire", "h": "Trump: 'blow 'em up or make a deal' with Iran",
+     "s": "He told reporters the US faces a choice between strikes and a deal, and that 'the time is coming'.",
+     "src": "AOL/Yahoo News · Al Jazeera · 30 Sep–1 Oct 2026"},
+    {"icon": "shield", "h": "Putin vows 'all weapons' to defend Kaliningrad",
+     "s": "He ruled out halting Black Sea strikes but said he is open to talks with Trump and Xi.",
+     "src": "SBS News · Al Jazeera · 1 Oct 2026"},
+    {"icon": "plane", "h": "Cockpit stabbing forces Flydubai jet to divert",
+     "s": "The Dubai–Tel Aviv flight landed safely in Tabuk, Saudi Arabia. Both pilots were injured.",
+     "src": "Al Jazeera · Democracy Now! · 30 Sep–1 Oct 2026"},
+    {"icon": "chart", "h": "South Korea's exports hit a record $120.9bn",
+     "s": "September shipments rose 83.5% as AI demand drove chip exports up 262.8%.",
+     "src": "Xinhua · Al Jazeera · 1 Oct 2026"},
+    {"icon": "people", "h": "Gaza mourners bury 105 recovered from rubble",
+     "s": "The mass funeral in Gaza City included 60 children.",
+     "src": "Democracy Now! · Dawn · 30 Sep–1 Oct 2026"}
+  ]
+}

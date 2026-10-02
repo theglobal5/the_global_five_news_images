@@ -1,0 +1,376 @@
+{
+ "date": "1 October 2026",
+ "regions": [
+  {
+   "key": "world",
+   "title": "World",
+   "sources": "Al Jazeera, AOL/Yahoo News, Democracy Now!, SBS News, Xinhua, Dawn",
+   "stories": [
+    {
+     "icon": "fire",
+     "h": "Trump: 'blow 'em up or make a deal' with Iran",
+     "s": "Asked about talks with Tehran in the Oval Office, Trump said the US faces a choice between strikes and a deal, adding that 'the time is coming'.",
+     "src": "AOL/Yahoo News; Al Jazeera · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "shield",
+     "h": "Putin vows 'all weapons' to defend Kaliningrad",
+     "s": "At Valdai he warned NATO over the exclave and ruled out halting Black Sea strikes, but is open to talks with Trump and Xi.",
+     "src": "SBS News; Al Jazeera · 1 Oct 2026"
+    },
+    {
+     "icon": "plane",
+     "h": "Cockpit stabbing forces Flydubai jet to divert",
+     "s": "Dubai–Tel Aviv flight FZ1073 landed safely in Tabuk, Saudi Arabia, after a crew member allegedly attacked a pilot. Both pilots were injured.",
+     "src": "Al Jazeera; Democracy Now! · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "chart",
+     "h": "South Korea's exports hit record $120.9bn",
+     "s": "September shipments rose 83.5% year on year as AI demand drove chip exports up 262.8% to $60.3bn.",
+     "src": "Xinhua; Al Jazeera · 1 Oct 2026"
+    },
+    {
+     "icon": "people",
+     "h": "Gaza mourners bury 105 recovered from rubble",
+     "s": "A mass funeral in Gaza City included 60 children. Medics reported further deaths from Israeli strikes on Wednesday.",
+     "src": "Democracy Now!; Dawn · 30 Sep–1 Oct 2026"
+    }
+   ]
+  },
+  {
+   "key": "asia",
+   "title": "Asia",
+   "sources": "Xinhua, Al Jazeera, Geo News, Dawn, The Daily Star (AFP), CPJ, SCMP",
+   "stories": [
+    {
+     "icon": "chart",
+     "h": "South Korea posts record exports on AI chips",
+     "s": "September exports hit $120.94bn, up 83.5%, with a record $49.85bn trade surplus.",
+     "src": "Xinhua; Al Jazeera · 1 Oct 2026"
+    },
+    {
+     "icon": "drone",
+     "h": "Pakistan strikes militant hideouts in Afghanistan",
+     "s": "Islamabad says 'calibrated' air strikes at two locations killed at least 22 fighters.",
+     "src": "Geo News; Dawn; Al Jazeera · 1 Oct 2026"
+    },
+    {
+     "icon": "vote",
+     "h": "India's opposition calls 'vote theft' protests",
+     "s": "Congress chief Kharge announced a march on the Election Commission over a voter-roll revision.",
+     "src": "The Daily Star (AFP) · 1 Oct 2026"
+    },
+    {
+     "icon": "speech",
+     "h": "Hong Kong journalist held on sedition charge",
+     "s": "Tang Ho-wing of Boom News was arrested over coverage of a 2019 clash anniversary.",
+     "src": "Al Jazeera; CPJ · 30 Sep 2026"
+    },
+    {
+     "icon": "flag",
+     "h": "Xi strikes confident note on National Day",
+     "s": "Marking the PRC's 77th anniversary, Xi rallied the country behind growth and tech resilience.",
+     "src": "SCMP (single source) · 30 Sep 2026"
+    }
+   ]
+  },
+  {
+   "key": "africa",
+   "title": "Africa",
+   "sources": "France 24, Rio Times, News24, IOL, Al Jazeera",
+   "stories": [
+    {
+     "icon": "flag",
+     "h": "Ethiopia and Eritrea break diplomatic ties",
+     "s": "Addis Ababa expelled 10 Eritrean diplomats and shut its Asmara embassy; Eritrea cut all ties.",
+     "src": "France 24; Rio Times · 1 Oct 2026"
+    },
+    {
+     "icon": "shield",
+     "h": "52 civilians killed in Tigray fighting",
+     "s": "Three days of clashes around Alamata left over 700 wounded as troops push north.",
+     "src": "Rio Times (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "plane",
+     "h": "Helicopter crash kills Zimbabwe's Chivayo",
+     "s": "Businessman Wicknell Chivayo, his wife and four others died near Marondera; bad weather blamed.",
+     "src": "News24; IOL · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "virus",
+     "h": "DR Congo buries official who defended Ebola effort",
+     "s": "Marie-Celestin Karondwa died after being beaten at his home in Butembo, an Ebola hotspot.",
+     "src": "Al Jazeera (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "building",
+     "h": "Tinubu marks Independence Day with reform claim",
+     "s": "Nigeria's president cited 4% growth and over $6bn in non-oil exports in his 1 October speech.",
+     "src": "Rio Times (single source) · 1 Oct 2026"
+    }
+   ]
+  },
+  {
+   "key": "namerica",
+   "title": "North America",
+   "sources": "Al Jazeera, CBS News, Mexico News Daily, US Treasury, Rio Times",
+   "stories": [
+    {
+     "icon": "trade",
+     "h": "Canada fast-tracks Pacific oil pipeline",
+     "s": "Carney named the 1m-barrel-a-day Pacific Link line a project of national interest to cut US reliance.",
+     "src": "Al Jazeera (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "storm",
+     "h": "Polo's remnants put 100m Americans on flood alert",
+     "s": "After landfalls in Baja California Sur and Sonora, the storm's moisture threatens nine US states.",
+     "src": "CBS News; Mexico News Daily · 30 Sep 2026"
+    },
+    {
+     "icon": "scales",
+     "h": "US sanctions Sinaloa Cartel network",
+     "s": "Treasury listed 21 people and 25 entities, including the ex-husband of Baja California's governor.",
+     "src": "US Treasury; Rio Times · 29 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "chart",
+     "h": "Mexico's exports jump 40.4% in August",
+     "s": "Shipments reached about US$78bn as electronics exports more than doubled.",
+     "src": "Rio Times (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "chip",
+     "h": "OpenAI reviews reported hack bid on Canada",
+     "s": "The company is examining a report of a failed attack targeting Canada's national archives agency.",
+     "src": "Al Jazeera (single source) · 1 Oct 2026"
+    }
+   ]
+  },
+  {
+   "key": "samerica",
+   "title": "South America",
+   "sources": "Rio Times, MercoPress, Al Jazeera",
+   "stories": [
+    {
+     "icon": "vote",
+     "h": "Lula and Flávio Bolsonaro tied before vote",
+     "s": "A Quaest runoff poll shows 42–42 ahead of Sunday's first round in Brazil.",
+     "src": "Rio Times; Al Jazeera · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "bank",
+     "h": "Colombia's central bank surprises with rate hike",
+     "s": "The rate rose 25 basis points to 12.25% as unemployment climbed to 9.4%.",
+     "src": "Rio Times (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "chart",
+     "h": "Chile's jobless rate hits highest since 2021",
+     "s": "Unemployment reached 9.6% while copper output fell 12.8% to a 15-year low.",
+     "src": "Rio Times (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "scales",
+     "h": "Argentina court lifts foreign land limits",
+     "s": "The Supreme Court cleared Milei's decree, as he visits Paris for investment talks.",
+     "src": "Rio Times (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "flag",
+     "h": "UK rejects Argentina's Falklands arbitration",
+     "s": "London questioned Buenos Aires' reliability as a partner over the Sea Lion oil project.",
+     "src": "MercoPress (single source) · 30 Sep 2026"
+    }
+   ]
+  },
+  {
+   "key": "antarctica",
+   "title": "Antarctica",
+   "note": "Fewer than five Antarctic stories in 24 h, so the window is extended to 21 days; each story is dated.",
+   "sources": "NSIDC (via UA News), Copernicus Marine (via AFP/Dawn), ABC News, Copernicus/NetNewsLedger, The Conversation",
+   "stories": [
+    {
+     "icon": "snow",
+     "h": "Sea ice maximum confirmed third-lowest",
+     "s": "Winter extent peaked at about 17.59m km² on 14 Sep; the four lowest maxima are all from the last four years.",
+     "src": "NSIDC via UA News · 30 Sep 2026"
+    },
+    {
+     "icon": "wave",
+     "h": "Report: polar oceans transformed by warming",
+     "s": "Copernicus warns most emperor penguin colonies could near extinction by 2100.",
+     "src": "Copernicus Marine via AFP; Dawn · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "building",
+     "h": "China plans sixth Antarctic research base",
+     "s": "The Marie Byrd Land station, due to start next year, has stirred debate in Australia.",
+     "src": "ABC News (single source) · 27 Sep 2026"
+    },
+    {
+     "icon": "globe",
+     "h": "Ozone hole grows larger than usual",
+     "s": "It reached about 25m km² by 12 Sep, roughly 5m km² above normal for the date.",
+     "src": "Copernicus via NetNewsLedger · 16 Sep 2026"
+    },
+    {
+     "icon": "drop",
+     "h": "Study: Antarctic ice loss now locked in",
+     "s": "Researchers say extra snowfall will not offset losses, raising risks for low-lying coasts.",
+     "src": "The Conversation; Phys.org · late Sep 2026"
+    }
+   ]
+  },
+  {
+   "key": "europe",
+   "title": "Europe",
+   "sources": "SBS News, Al Jazeera, Euronews, AOL (AP), Dawn",
+   "stories": [
+    {
+     "icon": "shield",
+     "h": "Putin warns West over Kaliningrad",
+     "s": "He said Russia would use 'all the weapons' at its disposal if the exclave were attacked.",
+     "src": "SBS News; Al Jazeera · 1 Oct 2026"
+    },
+    {
+     "icon": "flag",
+     "h": "Burnham sees Iran role in RAF Fairford scare",
+     "s": "The UK PM cited 'strong indications'; police found petrol, not explosives. Iran denies it.",
+     "src": "Al Jazeera; Euronews · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "drone",
+     "h": "Russian drone hits Kyiv school and bridge",
+     "s": "Children sheltered as the school was struck; the bridge hit halted metro services.",
+     "src": "Al Jazeera (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "people",
+     "h": "French school protests spread; 440 arrested",
+     "s": "Students blocked about 400 schools over crowded classes and staff shortages.",
+     "src": "AOL (AP); Al Jazeera · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "scales",
+     "h": "Norway probes 11 officials over Epstein links",
+     "s": "Parliament is examining ties between Epstein and senior political and diplomatic figures.",
+     "src": "Al Jazeera; Dawn · 30 Sep–1 Oct 2026"
+    }
+   ]
+  },
+  {
+   "key": "oceania",
+   "title": "Australia & Oceania",
+   "sources": "ABC News",
+   "stories": [
+    {
+     "icon": "bank",
+     "h": "RBA flags AI and bonds as top risks",
+     "s": "The Reserve Bank is more worried by overseas threats than the housing downturn.",
+     "src": "ABC News (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "people",
+     "h": "Victorian doctors set for mass walkout",
+     "s": "Public hospital doctors will strike for four hours after 14 months of pay talks.",
+     "src": "ABC News (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "chip",
+     "h": "SA Royal Commission into AI gets underway",
+     "s": "Three experts will lead the inquiry into AI's impact on jobs and the workforce.",
+     "src": "ABC News (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "fire",
+     "h": "Mistaken-identity shootings rattle Sydney",
+     "s": "Western Sydney residents voice fear after people were caught in gang crossfire.",
+     "src": "ABC News (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "crown",
+     "h": "Chris Fagan quits Brisbane Lions",
+     "s": "The coach steps down days after winning a third straight AFL premiership.",
+     "src": "ABC News (single source) · 1 Oct 2026"
+    }
+   ]
+  },
+  {
+   "key": "us",
+   "title": "United States",
+   "sources": "Al Jazeera, Democracy Now!, CBC, Air & Space Forces Magazine, The Hill (AP-NORC)",
+   "stories": [
+    {
+     "icon": "scales",
+     "h": "Tennessee halts executions after botched one",
+     "s": "Christa Pike survived two lethal injections; Gov. Bill Lee paused the rest of 2026's executions.",
+     "src": "Democracy Now!; Al Jazeera · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "drone",
+     "h": "Hegseth cuts 20% of generals, adds drone command",
+     "s": "His 'State of the Force' speech created a new command for autonomous warfare.",
+     "src": "CBC; Air & Space Forces Mag. · 30 Sep 2026"
+    },
+    {
+     "icon": "building",
+     "h": "Supreme Court to rule on ICE detention policy",
+     "s": "Justices will decide if migrants can be held in mandatory detention without bond.",
+     "src": "Al Jazeera; Stateline · 1 Oct 2026"
+    },
+    {
+     "icon": "chart",
+     "h": "Most Americans say Iran war not worth it",
+     "s": "An AP-NORC survey finds about two-thirds oppose the US-Israeli campaign.",
+     "src": "Al Jazeera; The Hill · 1 Oct 2026"
+    },
+    {
+     "icon": "virus",
+     "h": "Pennsylvania confirms fifth measles death",
+     "s": "US cases have more than doubled since August as the outbreak grows.",
+     "src": "Al Jazeera (single source) · 30 Sep 2026"
+    }
+   ]
+  },
+  {
+   "key": "pakistan",
+   "title": "Pakistan",
+   "sources": "Dawn, Geo News, Al Jazeera",
+   "stories": [
+    {
+     "icon": "drone",
+     "h": "Air strikes hit militant hideouts in Afghanistan",
+     "s": "The information ministry says strikes at two sites killed at least 22 militants.",
+     "src": "Dawn; Geo News; Al Jazeera · 1 Oct 2026"
+    },
+    {
+     "icon": "flag",
+     "h": "Emergency in KP 'seriously considered'",
+     "s": "A federal minister said so as PTI refused to delay its 4 October march.",
+     "src": "Dawn (single source) · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "bank",
+     "h": "FBR beats first-quarter tax target",
+     "s": "Strong sales tax receipts drove the result; the return deadline moves to 15 Oct.",
+     "src": "Dawn (single source) · 1 Oct 2026"
+    },
+    {
+     "icon": "ship",
+     "h": "Govt works to bring tanker sailors home",
+     "s": "Three Pakistanis died on the hijacked Honour 25; injured crew are treated in Puntland.",
+     "src": "Dawn (single source) · 30 Sep–1 Oct 2026"
+    },
+    {
+     "icon": "crown",
+     "h": "Pakistan reach Asian Games cricket final",
+     "s": "A rain-hit six-wicket win over Bangladesh; volleyball team beat India 3-0.",
+     "src": "Dawn (single source) · 1 Oct 2026"
+    }
+   ]
+  }
+ ]
+}

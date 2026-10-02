@@ -1,0 +1,112 @@
+{
+ "world": {
+  "hdr_l": "#5b2b9f",
+  "hdr_r": "#2a62d5",
+  "tl": "#5631a5",
+  "tr": "#4f37ab",
+  "bl": "#305ccf",
+  "br": "#2a63d6",
+  "accent": "#5b2a9e",
+  "ic1": "#5235a9",
+  "ic2": "#3259cc"
+ },
+ "asia": {
+  "hdr_l": "#b4011b",
+  "hdr_r": "#e7580c",
+  "tl": "#cf1f2d",
+  "tr": "#d52d2a",
+  "bl": "#f97b21",
+  "br": "#fe891f",
+  "accent": "#b3001b",
+  "ic1": "#bd1119",
+  "ic2": "#df4a0e"
+ },
+ "africa": {
+  "hdr_l": "#b36b01",
+  "hdr_r": "#a3391b",
+  "tl": "#d58305",
+  "tr": "#d07a0a",
+  "bl": "#ba5125",
+  "br": "#b54829",
+  "accent": "#b36b00",
+  "ic1": "#b06206",
+  "ic2": "#a54117"
+ },
+ "namerica": {
+  "hdr_l": "#374a5a",
+  "hdr_r": "#0b8982",
+  "tl": "#385866",
+  "tr": "#32616b",
+  "bl": "#15948e",
+  "br": "#0f9c94",
+  "accent": "#37495a",
+  "ic1": "#2f5562",
+  "ic2": "#127f7b"
+ },
+ "samerica": {
+  "hdr_l": "#e55340",
+  "hdr_r": "#a3206e",
+  "tl": "#f66765",
+  "tr": "#ec5d68",
+  "bl": "#ba2e7c",
+  "br": "#b0247f",
+  "accent": "#e5533f",
+  "ic1": "#d94a48",
+  "ic2": "#ae2867"
+ },
+ "antarctica": {
+  "hdr_l": "#bfe6f7",
+  "hdr_r": "#7cc4e8",
+  "tl": "#9dd9f6",
+  "tr": "#a9ddf6",
+  "bl": "#f1fafe",
+  "br": "#feffff",
+  "accent": "#0b5c8a",
+  "ic1": "#b3e0f5",
+  "ic2": "#87c9ea"
+ },
+ "europe": {
+  "hdr_l": "#1c3b9e",
+  "hdr_r": "#a77900",
+  "tl": "#334c95",
+  "tr": "#4b587f",
+  "bl": "#c89b16",
+  "br": "#dfa700",
+  "accent": "#1b3a9e",
+  "ic1": "#364681",
+  "ic2": "#906f1a"
+ },
+ "oceania": {
+  "hdr_l": "#0b609e",
+  "hdr_r": "#8e7948",
+  "tl": "#247bb3",
+  "tr": "#3f87b0",
+  "bl": "#cbc7a6",
+  "br": "#e5d2a3",
+  "accent": "#0a5f9e",
+  "ic1": "#23648e",
+  "ic2": "#787556"
+ },
+ "us": {
+  "hdr_l": "#0b2a5e",
+  "hdr_r": "#b2132a",
+  "tl": "#212759",
+  "tr": "#372352",
+  "bl": "#b01434",
+  "br": "#c7102e",
+  "accent": "#0a2a5e",
+  "ic1": "#2a2655",
+  "ic2": "#961632"
+ },
+ "pakistan": {
+  "hdr_l": "#0b5d2a",
+  "hdr_r": "#2f8a4d",
+  "tl": "#287043",
+  "tr": "#45835d",
+  "bl": "#e1ebe5",
+  "br": "#fefefe",
+  "accent": "#0b5d2a",
+  "ic1": "#126631",
+  "ic2": "#298247"
+ }
+}
